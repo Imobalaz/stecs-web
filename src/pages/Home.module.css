@@ -152,7 +152,7 @@
     flex-direction: column;
     gap: 20px;
     justify-content: flex-start;
-    align-items: start;
+    align-items: flex-start;
 }
 
 .sectionTwo .insight .texts p {
@@ -541,7 +541,7 @@
     padding: 154px 0 154px 40px ;
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: flex-start;
     gap: 20px;
 }
 

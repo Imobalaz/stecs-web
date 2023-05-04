@@ -31,7 +31,7 @@
 
 @media screen and (max-width: 600px) {
     .container {
-        align-items: start;
+        align-items: flex-start;
         width: 100%;
         justify-content: flex-start;
         gap: 12px;
