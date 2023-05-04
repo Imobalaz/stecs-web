@@ -112,7 +112,7 @@
         font-size: 18px;
         line-height: 21px;
         text-decoration: none;
-        justify-content: start;
+        justify-content: flex-start;
         text-align: start;
         color: #333333;
         cursor: pointer;

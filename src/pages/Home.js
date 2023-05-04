@@ -13,7 +13,6 @@ export default function Home() {
   const showOverlay = ctx.showOverlay;
     const firstText =
       "I never thought banking could be so easy and stress-free until I started using this app. It has completely transformed the way I manage my finances.";
-    const secondText = ""
 
     const buttonClickHandler = () => {
       showOverlay();

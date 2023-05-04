@@ -16,7 +16,7 @@
 .getapp {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: start;
 }
 
@@ -103,14 +103,14 @@
 
     .contact {
         flex-direction: column;
-        justify-content: start;
+        justify-content: flex-start;
         gap: 46px;
     }
 
     .bottom {
         margin-top: 41px;
         align-items: start;
-        justify-content: start;
+        justify-content: flex-start;
     }
 
     .bottom p {
